@@ -1,0 +1,10 @@
+{
+  "DEMO-001": {
+    "display_name": "Тестовый участник | Demo Participant",
+    "course": "Демонстрационный курс",
+    "hours": 24,
+    "issued_on": "2026-10-09",
+    "status": "demo",
+    "issuer": "CA Scholars"
+  }
+}
